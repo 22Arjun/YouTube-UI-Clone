@@ -1,6 +1,6 @@
 # YouTube UI Clone
 
-A responsive YouTube UI clone built with HTML, CSS, and JavaScript, mimicking the core layout and functionality of YouTube's web interface. This project replicates key features such as the video grid, sidebar navigation, search bar, and responsive design for an authentic user experience.
+A responsive YouTube UI clone built with HTML, CSS, JavaScript, and ReactJS, mimicking the core layout and functionality of YouTube's web interface. This project replicates key features such as the video grid, sidebar navigation, search bar, and responsive design for an authentic user experience.
 
 ## Features
 - **Responsive Layout**: Adapts seamlessly to desktop and mobile devices using CSS Grid and Flexbox.
@@ -9,12 +9,13 @@ A responsive YouTube UI clone built with HTML, CSS, and JavaScript, mimicking th
 - **Search Functionality**: Functional search bar with dynamic suggestions (mock data).
 - **Dark Mode**: Toggleable dark/light theme for accessibility and user preference.
 - **Video Playback Page**: Simulated video player with comments section and related videos.
-- **JavaScript Interactivity**: Dynamic content loading and event handling for user interactions.
+- **JavaScript/ReactJS Interactivity**: Dynamic content loading and event handling using React components and state management.
 
 ## Tech Stack
 - **HTML5**: Semantic structure for accessibility and SEO.
 - **CSS3**: Tailwind CSS for styling, with custom animations and responsive design.
-- **JavaScript**: Vanilla JS for interactivity, DOM manipulation, and mock data handling.
+- **JavaScript**: Vanilla JS for core interactivity and DOM manipulation.
+- **ReactJS**: Component-based architecture for dynamic UI and state management.
 - **Fonts/Icons**: Google Fonts and Material Icons for authentic YouTube styling.
 
 ## Usage
@@ -35,4 +36,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 - Inspired by YouTube's clean and user-friendly interface.
-- Built as a learning project to practice front-end development and responsive design.
+- Built as a learning project to practice front-end development, responsive design, and ReactJS component development.
