@@ -1,2 +1,2 @@
 # YouTube-UI-Clone
-A responsive YouTube UI clone built with HTML, CSS, and JavaScript, featuring a video grid, sidebar navigation, and dark mode toggle.
+Built a responsive YouTube Dashboard UI clone using HTML5 and CSS3 (Flexbox). Focused on pixel-perfect layout, mobile responsiveness, and design accuracy. Currently extending the project with JavaScript to add interactivity and with ReactJS for componentization.
